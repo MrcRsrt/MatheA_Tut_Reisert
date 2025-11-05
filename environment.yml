@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python=3.11
   - manim=0.19        
-  - numpy<2
   - jupyterlab
   - ipython
   - ffmpeg
