@@ -1,0 +1,6 @@
+ffmpeg
+texlive
+texlive-latex-extra
+texlive-fonts-extra
+texlive-science
+dvisvgm
